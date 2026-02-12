@@ -1,3 +1,3 @@
 #Cloud-Practice-
 Updating file 
-Making nee changes get commands 
+Making nee changes get commands
